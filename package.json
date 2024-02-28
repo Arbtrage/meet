@@ -7,7 +7,7 @@
   "version": "0.5.0",
   "license": "MIT",
   "scripts": {
-    "dev": "TZ='UTC' next dev",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "test": "jest",
